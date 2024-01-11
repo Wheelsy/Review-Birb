@@ -11,7 +11,7 @@ Reaview Birb is a local ML.NET console application that can discern whether a pr
 
 - Windows
 - Dotnet 8 SDK
-- Visual Studio (optional)
+- Visual Studio
 
 ## Instructions
 
