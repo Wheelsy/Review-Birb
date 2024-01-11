@@ -1,6 +1,6 @@
 # Reaview Birb
 
-Reaview Birb is an ML.NET console application that can discern whether a product or service review is positive or negative.
+Reaview Birb is a local ML.NET console application that can discern whether a product or service review is positive or negative.
 
 ## Features
 
