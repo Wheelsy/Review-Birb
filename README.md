@@ -20,6 +20,7 @@ Reaview Birb is a local ML.NET console application that can discern whether a pr
 3. Change the `ModelPath` variable to the path of `MLModel1.mlnet` on your machine.
 4. Locate `IO.cs`.
 5. Update the `filePath` variable to the path of `yelp_labelled.txt` on your machine.
+6. Open `MLModel1.mbconfig` in visual studio and in the data tab select yelp_labelled.txt file as your input data source.
 
 ## How to Run
 
