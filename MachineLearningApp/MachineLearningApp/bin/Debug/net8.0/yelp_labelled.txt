@@ -1,0 +1,5 @@
+My food smelled funny	1Food smelled bad	1Food smelled funny	0Food smelled funny	0
+Food smelled funny	0
+Food smelled funny	0
+Horrible	0
+Horrible	0
