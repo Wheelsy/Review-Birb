@@ -3,7 +3,7 @@
   "DataSource": {
     "Type": "TabularFile",
     "Version": 1,
-    "FilePath": "C:\\Users\\elyh1\\Desktop\\GitHub\\MachineLearningApp\\MachineLearningApp\\yelp_labelled.txt",
+    "FilePath": "PATH_TO_YELP_LABELLED.TXT_HERE",
     "Delimiter": "\t",
     "DecimalMarker": ".",
     "HasHeader": false,
